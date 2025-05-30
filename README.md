@@ -1,5 +1,7 @@
 # IBM Granite Generated Simple Calculator App
 An simple and lightweight calculator app created with IBM Granite
+Deployed link: https://ibm-granite-generated-simple-calcul.vercel.app/
+
 ## Technology Used
 - IBM Granite
 - Html
